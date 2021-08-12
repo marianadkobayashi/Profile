@@ -1,3 +1,5 @@
 # Profile
 
-Hello, my name is Mariana. This is my first ever project!
+Hello, my name is Mariana. This is my first ever project! 🚀
+
+Check it out:
