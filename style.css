@@ -80,6 +80,13 @@ h2 {
 .fab {
   font-size: 40px;
 }
+.inspo-pic {
+  height: 150px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 4px;
+  box-shadow: 0 5px 30px rgb(0 0 0 / 10%);
+}
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
